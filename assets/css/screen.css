@@ -388,8 +388,8 @@ margin on the iframe, cause it breaks stuff. */
     margin-bottom: 5rem;
     text-align: center;
     color: #fff;
-    background: #303538 no-repeat center center;
-    background-size: cover;
+    background-image: url(/assets/images/stardust.png);
+    border-bottom: 1px solid #313036;
 }
 
 .blog-logo {
@@ -419,7 +419,7 @@ margin on the iframe, cause it breaks stuff. */
 
 .blog-description {
     margin: 0;
-    font-size: 1.8rem;
+    font-size: 1.6rem;
     line-height: 1.5em;
     font-family: "Din Text Pro Light", Verdana, sans-serif;
     font-size-adjust: 0.5;
