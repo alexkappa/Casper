@@ -825,7 +825,7 @@ margin on the iframe, cause it breaks stuff. */
     padding: 4px 8px 5px 8px;
     position:absolute;
     top: -23px;
-    left: -21px;
+    left: -20px;
     color: rgba(255,255,255,0.9);
     font-size: 1.3rem;
     line-height: 1em;
