@@ -96,7 +96,7 @@ body {
     font-weight: 200;
     font-style: normal;
     font-size: 1.7rem;
-    line-height: 1.6em;
+    /*line-height: 1.6em;*/
     color: #3A4145;
 }
 
@@ -237,8 +237,8 @@ mark {
 
 code, tt {
     padding: 1px 3px;
-    font-family: Inconsolata, monospace, sans-serif;
-    font-size: 0.85em;
+    font-family: Consolas, monospace, sans-serif;
+    font-size: 0.9em;
     white-space: pre-wrap;
     border: 1px solid #E3EDF3;
     background: #F7FAFB;
@@ -252,7 +252,7 @@ pre {
     border: 1px solid #E3EDF3;
     width: 100%;
     padding: 10px;
-    font-family: Inconsolata, monospace, sans-serif;
+    font-family: Consolas, monospace, sans-serif;
     font-size: 0.9em;
     white-space: pre;
     overflow: auto;
@@ -825,7 +825,7 @@ margin on the iframe, cause it breaks stuff. */
     padding: 4px 8px 5px 8px;
     position:absolute;
     top: -23px;
-    left: -21px;
+    left: -20px;
     color: rgba(255,255,255,0.9);
     font-size: 1.3rem;
     line-height: 1em;
