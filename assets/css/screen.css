@@ -388,8 +388,8 @@ margin on the iframe, cause it breaks stuff. */
     margin-bottom: 5rem;
     text-align: center;
     color: #fff;
-    background-image: url(/assets/images/stardust.png);
-    border-bottom: 1px solid #313036;
+    background: #303538 no-repeat center center;
+    background-size: cover;
 }
 
 .blog-logo {
